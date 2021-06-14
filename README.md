@@ -1,5 +1,5 @@
-# ITSmudancasclimaticas
+# Climate change in the perception of Brazilians: Results of a cluster analysis 
 
-# Repositório com os dados da pesquisa de percepção de mudanças climáticas feito pelo instituto ITS juntamente com o IBOPE data e a universidade de Yale. 
+Hoping that this repository will contribute to a more transparent science and that students can exercise cluster analysis using real data, this Repository has computational scripts and data used in the analysis of clusters of Climate Change in the Perception of Brazilians, a survey carried out by the Rio Institute of Technology and Society (ITS) together with IBOPE Intelligence and the Yale Program on Climate Change Communication. 
 
-# Os dados foram tratados utilizando o software Rstudio 4.0.0 
+### Data were processed using Rstudio 4.0.0 software 
